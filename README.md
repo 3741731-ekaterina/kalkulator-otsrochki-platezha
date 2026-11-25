@@ -39,6 +39,7 @@ python3 -m http.server 8765 --bind 0.0.0.0
 ## Файлы
 
 - `index.html` — весь интерфейс, оформление и JavaScript без внешних зависимостей.
-- `preview.jpg` — снимок интерфейса.
+- `preview.jpg` — снимок интерфейса на компьютере.
+- `preview-mobile.jpg` — снимок мобильной версии.
 
 ![Предпросмотр](preview.jpg)
